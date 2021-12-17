@@ -21,22 +21,20 @@
 
 ### Tecnologias
 
-As seguintes tecnologias foram usadas para a construção desse aplicativo iOS:
+As seguintes tecnologias foram usadas para programar este aplicativo iOS:
 
 * [x] Swift 5
 * [x] Desen. Nativo Watch OS
 * [x] SwiftUI
-* [x] Trello
+* [x] Sketch e Photoshop - Ícone
    
 <br>
 
 ### Documentação
 
-O App é 
+O App é um simples cronômetro 
 
 O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além de o ícone do app ser uma represetação da ampulheta de Cronos :) 
-
-Caso queria ver a 
 
 ---
 
