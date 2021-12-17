@@ -16,16 +16,16 @@ struct ContentView: View {
         Text("Começar o timer com \(timerVal) segundos")
                 .font(.system(size: 14))
         Picker(selection: $timerVal, label: Text("")) {
-            /*@START_MENU_TOKEN@*/Text("1").tag(1)/*@END_MENU_TOKEN@*/
-            Text("5").tag(5)
             Text("10").tag(10)
-            Text("15").tag(15)
             Text("20").tag(20)
-            Text("25").tag(25)
             Text("30").tag(30)
-            Text("35").tag(35)
             Text("40").tag(40)
-            Text("45").tag(45)
+            Text("50").tag(50)
+            Text("60").tag(60)
+            Text("70").tag(70)
+            Text("80").tag(80)
+            Text("90").tag(90)
+    
             
         }
         NavigationLink(destination: SecondView(secondScreenShown: $secondScreenShown, timerVal: timerVal),
