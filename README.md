@@ -1,18 +1,18 @@
 <h1 align="center">
-<img alt="gif" title="gif" src="./mac256.png" height="60" />
   Cronos
 </h1>   
 
-<p align="center"> O App Countries of the world aparenta ser simples, mas nele esconde 
+<p align="center"> Cronos é um app de cronômetro desenvolvido para o WatchOS com SwiftUI.
   
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a> •
- <a href="#Links">Links</a>
+  <a href="#documentação">Documentação</a> •
+ <a href="#links">Links</a>
 </p>
 
 <h1 align="center">
-  <img alt="gif" title="gif" src="./gif.gif" height="600" />
+  <img alt="gif" src="./Github Images/open.gif" height="300" />
     
  
 
@@ -30,12 +30,24 @@ As seguintes tecnologias foram usadas para a construção desse aplicativo iOS:
    
 <br>
 
+### Documentação
+
+Cronos é meu primeiro app feito exclusivamente para o AppleWatch e primeiro contato com SwiftUI, o novo framework da Apple.
+
+O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além de o ícone do app ser uma represetação da ampulheta de Cronos :) 
+
+
+
+ 
+### Links 
+
+Links úteis do projeto
+
+<a href="https://www.sketch.com/workspace/82e9a48b-bfe0-4447-a7a6-39030836d316/shares" target="_blank"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" target="_blank"></a>
+
 ---
 
 ### Autor 
-
-
-### Links
 
 | [<img src="https://avatars.githubusercontent.com/u/86681672?s=96&v=4" width=115><br><sub>@HenriqueMarques</sub>](https://github.com/RickyMarq) |
 | :---: |
