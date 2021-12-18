@@ -2,11 +2,11 @@
   Cronos
 </h1>   
 
-<p align="center"> Cronos é um app de cronômetro desenvolvido nativamente para o WatchOS utilizando SwiftUI.
+<p align="center"> Cronos é um app de timer desenvolvido nativamente para o WatchOS utilizando SwiftUI.
   
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#documentação">Documentação</a> •
+  <a href="#notas">Notas</a> •
   <a href="#autor">Autor</a> 
 </p>
 
@@ -26,15 +26,15 @@ As seguintes tecnologias foram usadas para programar este aplicativo iOS:
 * [x] Swift 5
 * [x] Desen. Nativo Watch OS
 * [x] SwiftUI
-* [x] Sketch e Photoshop - Ícone
+* [x] Sketch - Ícone do App
    
 <br>
 
-### Documentação
+### Notas
 
-O App é um simples cronômetro 
-
-O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além de o ícone do app ser uma represetação da ampulheta de Cronos :) 
+Este foi meu primeiro contato com desenvolvimento para WatchOS e resolvi criar um app simples de timer 
+   
+O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além do o ícone do aplicativo ser a da ampulheta de Cronos com um visual moderno :) 
 
 ---
 
