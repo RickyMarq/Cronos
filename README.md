@@ -12,7 +12,6 @@
 
 <h1 align="center">
   <img alt="gif" src="./Github Images/Open.gif" height="300" />
-  <img alt="png" src="./Github Images/Logo.png" height="299" />
   <img alt="gif" src="./Github Images/watch.gif" height="300" />
     
  
