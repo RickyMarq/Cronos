@@ -46,5 +46,4 @@ O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além d
 <a href="https://www.instagram.com/henrique_marques76/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-Feito por Henrique Marques • ᕕ( ᐛ )ᕗ
-
+Feito com dedicação e muito ☕️ por Henrique Marques • ᕕ( ᐛ )ᕗ
