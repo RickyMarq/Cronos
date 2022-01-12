@@ -2,7 +2,7 @@
   Cronos
 </h1>   
 
-<p align="center"> Cronos é um app de timer que desenvolvi nativamente para o WatchOS utilizando SwiftUI.
+<p align="center"> Cronos é um app simples de timer que desenvolvi nativamente para o WatchOS utilizando SwiftUI.
   
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
