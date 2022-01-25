@@ -33,7 +33,7 @@ The following technologies were used to program this iOS app:
 
 This was my first contact with WatchOS development and I decided to create a simple timer app
    
-The name of the app comes from Mythology, with Cronos being the personification of time and the app icon being the hourglass of Cronos :) 
+The name of the app comes from Mythology, with Cronos being the personification of time and the app icon being the hourglass of Cronos. 
 
 ---
 
