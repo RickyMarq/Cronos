@@ -20,7 +20,7 @@
 
 ### Technologies
 
-The following technologies were used to program this iOS app:
+The following technologies were used to program this WatchOS app:
 
 * [x] Swift 5
 * [x] WatchOS Native Development
