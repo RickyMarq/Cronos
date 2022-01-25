@@ -2,11 +2,11 @@
   Cronos
 </h1>   
 
-<p align="center"> Cronos é um app simples de timer que desenvolvi nativamente para o WatchOS utilizando SwiftUI.
+<p align="center"> Cronos is a simple timer app that I developed natively for WatchOS using SwiftUI.
   
 <p align="center">
- <a href="#tecnologias">Tecnologias</a> •
-  <a href="#notas">Notas</a> •
+ <a href="#Technologies">Technologies</a> •
+  <a href="#Notes">Notes</a> •
   <a href="#autor">Autor</a> 
 </p>
 
@@ -18,22 +18,22 @@
 
 </h1>
 
-### Tecnologias
+### Technologies
 
-As seguintes tecnologias foram usadas para programar este aplicativo iOS:
+The following technologies were used to program this iOS app:
 
 * [x] Swift 5
-* [x] Desen. Nativo Watch OS
+* [x] WatchOS Native Development
 * [x] SwiftUI
-* [x] Sketch - Ícone do App
+* [x] Sketch - App Icon
    
 <br>
 
-### Notas
+### Notes
 
-Este foi meu primeiro contato com desenvolvimento para WatchOS e resolvi criar um app simples de timer 
+This was my first contact with WatchOS development and I decided to create a simple timer app
    
-O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além do o ícone do aplicativo ser a da ampulheta de Cronos com um visual moderno :) 
+The name of the app comes from Mythology, with Cronos being the personification of time and the app icon being the hourglass of Cronos :) 
 
 ---
 
@@ -46,4 +46,4 @@ O nome do app vem da Mitologia, sendo Cronos a personificação do tempo além d
 <a href="https://www.instagram.com/henrique_marques76/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-Feito com dedicação e muito ☕️ por Henrique Marques • ᕕ( ᐛ )ᕗ
+Made with dedication and a lot ☕️ by Henrique Marques • ᕕ( ᐛ )ᕗ
