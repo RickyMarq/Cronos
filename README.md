@@ -46,4 +46,4 @@ The name of the app comes from Mythology, with Cronos being the personification 
 <a href="https://www.instagram.com/henrique_marques76/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/henrique-marques-5553581b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-Made with dedication and a lot ☕️ by Henrique Marques • ᕕ( ᐛ )ᕗ
+Made with dedication and a lot of ☕️ by Henrique Marques • ᕕ( ᐛ )ᕗ
